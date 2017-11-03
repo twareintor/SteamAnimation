@@ -4,8 +4,7 @@
 // Steam engine simple animation 
 // Coded by Twareintor through extension of Irrlicht Tutorial #2
 // Author: Claudiu Ciutacu (ciutacu/o'gmail.com)
-// credits: Youtube Chris Smith <https://www.youtube.com/watch?v=o5bZDYuN_gc>
-// credits: Chris Smith <a href = https://www.youtube.com/channel/UCUsT1MT1mUGQ2WWV80DC50g>
+
 // the model is downoladed from here: <a href = http://www.chrissmith.org.uk/thomas> where the moving parts 
 // were taking apart and used as separate nodes 
 
