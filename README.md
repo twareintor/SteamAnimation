@@ -8,3 +8,5 @@ Inertia calculated without physics but only with string series (multiplying with
 Variable frame rate (a feature of Irrlicht) command using keyboard (Irrlicht keymap)
 
 The code is just a sample containing parts ready to adapt and use in any simple animation of a stem engine and collision effect with any library.
+
+See an example here: https://www.youtube.com/watch?v=9wPjyAQpLyM&t=141s
